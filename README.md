@@ -47,31 +47,30 @@ The dataset can be accessed from [here](https://github.com/Wasi34/Comprehensive-
 
 
 ## Results
-### Comparative Analysis of Pre-trained Language Models for Different Performance Metrics
-
-| Model         | Accuracy | Precision | Recall  | F1-Score |
-|---------------|----------|-----------|---------|----------|
-| **BanglaBERT**| **0.8204** | **0.8222** | **0.8204** | **0.8203** |
-| Bangla BERT Base | 0.6803 | 0.6907 | 0.6812 | 0.6833 |
-| DistilBERT    | 0.6320   | 0.6358    | 0.6320  | 0.6317   |
-| mBERT         | 0.6427   | 0.6496    | 0.6428  | 0.6153   |
-| sahajBERT     | 0.6708   | 0.6791    | 0.6709  | 0.6707   |
+### Table 1: Potential Assessment Predictions of Deep Hybrid Learning Model to Classify the Potato Disease using Adam Optimizer
+| Decoder | Accuracy | Precision | Recall | F1 Score |
+|---------|----------|-----------|--------|----------|
+| LSTM    | 0.9446   | 0.9456    | 0.9446 | 0.9436   |
+| GRU     | 0.9714   | 0.9727    | 0.9714 | 0.9715   |
+| BiLSTM  | 0.9553   | 0.9574    | 0.9553 | 0.9555   |
 
 
-### Comparative Analysis of Large  Language Models for Different Performance Metrics
 
-| LLMs   | Metric    | Zero-shot | 5-shot | 10-shot | 15-shot |
-|--------|-----------|-----------|--------|---------|---------|
-| GPT 3.5 Turbo | Accuracy  | 0.8500    | 0.8900 | 0.9133  | **0.9400** |
-|              | Precision | 0.8467    | 0.8867 | 0.9200  | **0.9467** |
-|              | Recall    | 0.8533    | 0.8926 | 0.9079  | **0.9342** |
-|              | F1-Score  | 0.8495    | 0.8896 | 0.9139  | **0.9404** |
-| Gemini 1.5 Pro | Accuracy  | 0.8608    | 0.8981 | 0.9200  | **0.9633** |
-|              | Precision | 0.8931    | 0.8846 | 0.9333  | **0.9667** |
-|              | Recall    | 0.8477    | 0.9205 | 0.9091  | **0.9603** |
-|              | F1-Score  | 0.8698    | 0.9022 | 0.9211  | **0.9635** |
+### Table 2: Potential Assessment Predictions of Deep Hybrid Learning Model to Classify the Potato Disease using Stochastic Gradient Descent Optimizer
 
+| Decoder | Accuracy | Precision | Recall | F1 Score |
+|---------|----------|-----------|--------|----------|
+| LSTM    | 0.9928   | 0.9928    | 0.9928 | 0.9928   |
+| GRU     | 0.9946   | 0.9947    | 0.9946 | 0.9946   |
+| BiLSTM  | 0.9678   | 0.9678    | 0.9699 | 0.9678   |
 
+### Table 3: Potential Assessment Predictions of Deep Hybrid Learning Model to Classify the Potato Disease using Adam Optimizer
+
+| Decoder | Accuracy | Precision | Recall | F1 Score |
+|---------|----------|-----------|--------|----------|
+| LSTM    | 0.9446   | 0.9456    | 0.9446 | 0.9436   |
+| GRU     | 0.9714   | 0.9727    | 0.9714 | 0.9715   |
+| BiLSTM  | 0.9553   | 0.9574    | 0.9553 | 0.9555   |
 
 
 ## Contact Information
