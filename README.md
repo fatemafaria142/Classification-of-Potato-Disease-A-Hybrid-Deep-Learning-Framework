@@ -83,11 +83,6 @@ For any questions, collaboration opportunities, or further inquiries, please fee
 - **Mukaffi Bin Moin**
   - Email: [mukaffi28@gmail.com](mailto:mukaffi28@gmail.com)
 
-- **Ahmed Al Wase**
-  - Email: [rabeya.islammomo@gmail.com](mailto:rabeya.islammomo@gmail.com)
-    
-- **Md. Rabius Sani**
-  - Email: [mahbubabir09@gmail.com](mailto:mahbubabir09@gmail.com)
 
     
 ## Citation
