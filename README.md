@@ -28,7 +28,7 @@ achieved 99% accuracy.
 Explore our research on "Classification of Potato Diseases" to delve into our innovative hybrid deep learning framework for accurate disease classification. To view our detailed findings and methodologies, access the full paper [here](https://ieeexplore.ieee.org/document/10099162).
 
 ## Proposed Methodology
-![Methodology](potato_diagram.jpg)
+![Methodology](potato_method.png)
 
     
 ## Dataset Availability
@@ -83,13 +83,12 @@ For any questions, collaboration opportunities, or further inquiries, please fee
 - **Mukaffi Bin Moin**
   - Email: [mukaffi28@gmail.com](mailto:mukaffi28@gmail.com)
 
-- **Rabeya Islam Mumu**
+- **Ahmed Al Wase**
   - Email: [rabeya.islammomo@gmail.com](mailto:rabeya.islammomo@gmail.com)
     
-- **Md Mahabubul Alam Abir**
+- **Md. Rabius Sani**
   - Email: [mahbubabir09@gmail.com](mailto:mahbubabir09@gmail.com)
-- **Abrar Nawar Alfy**
-  - Email: [abraralfy49@gmail.com](mailto:abraralfy49@gmail.com)
+
     
 ## Citation
 
