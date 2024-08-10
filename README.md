@@ -17,15 +17,15 @@ strategy exceeds the other alternative. On the test dataset, we
 achieved 99% accuracy.
 
 ## Table of Contents
-- [Preprint](#paper-link)
+- [Paper](#paper-link)
 - [Proposed Methodology](#experimental-methodology)
 - [Dataset Availability](#dataset-availability)
 - [Results](#results)
 - [Contact Information](#contact-information)
 - [Citation](#citation)
 
-## Preprint Link
-Explore our research on Bengali Political Sentiment Analysis to understand the nuances of political discourse in the Bengali language. Access the full paper [here](https://arxiv.org/pdf/2407.19528).
+## Paper Link
+Explore our research on "Classification of Potato Diseases" to delve into our innovative hybrid deep learning framework for accurate disease classification. To view our detailed findings and methodologies, access the full paper [here](https://ieeexplore.ieee.org/document/10099162).
 
 ## Proposed Methodology
 ![Methodology](political_diagram.jpg)
@@ -116,14 +116,13 @@ For any questions, collaboration opportunities, or further inquiries, please fee
 <!--If you find the dataset or the associated research work helpful, please consider citing our paper: -->
 
 ```bibtex
-@misc{faria2024motamotdatasetrevealingsupremacy,
-      title={Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis}, 
-      author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Rabeya Islam Mumu and Md Mahabubul Alam Abir and Abrar Nawar Alfy and Mohammad Shafiul Alam},
-      year={2024},
-      eprint={2407.19528},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2407.19528}, 
+@inproceedings{faria2023classification,
+  title={Classification of potato disease with digital image processing technique: a hybrid deep learning framework},
+  author={Faria, Fatema Tuj Johora and Moin, Mukaffi Bin and Al Wase, Ahmed and Sani, Md Rabius and Hasib, Khan Md and Alam, Mohammad Shafiul},
+  booktitle={2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)},
+  pages={0820--0826},
+  year={2023},
+  organization={IEEE}
 }
 
 
