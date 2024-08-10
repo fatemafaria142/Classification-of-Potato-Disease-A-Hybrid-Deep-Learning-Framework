@@ -28,41 +28,22 @@ achieved 99% accuracy.
 Explore our research on "Classification of Potato Diseases" to delve into our innovative hybrid deep learning framework for accurate disease classification. To view our detailed findings and methodologies, access the full paper [here](https://ieeexplore.ieee.org/document/10099162).
 
 ## Proposed Methodology
-![Methodology](political_diagram.jpg)
+![Methodology](potato_diagram.jpg)
 
     
 ## Dataset Availability
 
-We called the dataset "Motamot" in Bengali (মতামত) and in English (Opinion). It was meticulously compiled from a range of online newspapers focusing on political events and conversations during Bangladeshi elections. Our data collection process involved scraping articles and opinion pieces from reputable news sources, ensuring a diverse and representative sample of political discourse. "Motamot" gives a broad look into the many opinions and conversations that shape Bangladesh's political environment. The dataset can be accessed from [here](https://data.mendeley.com/datasets/hdhnrrwdz2/1).
+The dataset can be accessed from [here](https://github.com/Wasi34/Comprehensive-Potato-Disease-Dataset).
 
 ### Specifics of the Core Data:
 
-|                  | Train | Test | Validation |
-|------------------|-------|------|------------|
-| **Total**        | 5647  | 706  | 705        |
-| **Positive**     | 3306  | 413  | 413        |
-| **Negative**     | 2341  | 293  | 292        |
-
-### Train Data:
-
-|           | Positive | Negative |
-|-----------|----------|----------|
-| **Count** | 3306     | 2341     |
-
-### Test Data:
-
-|           | Positive | Negative |
-|-----------|----------|----------|
-| **Count** | 413      | 293      |
-
-### Validation Data:
-
-|           | Positive | Negative |
-|-----------|----------|----------|
-| **Count** | 413      | 292      |
-
-
-
+| Disease Name   | Total Images | Causes of Disease |
+|----------------|--------------|-------------------|
+| **Common scab**| 47           | Bacteria          |
+| **Blackleg**    | 40           | Bacteria          |
+| **Dry rot**     | 44           | Fungus            |
+| **Pink rot**    | 46           | Fungus            |
+| **Black scurf** | 36           | Fungus            |
 
 
 ## Results
